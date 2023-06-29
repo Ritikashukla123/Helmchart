@@ -1,0 +1,11 @@
+Processing configuration file '/etc/clickhouse-server/config.xml'.
+Merging configuration file '/etc/clickhouse-server/config.d/config.xml'.
+Merging configuration file '/etc/clickhouse-server/config.d/users.xml'.
+Logging trace to /var/log/clickhouse-server/clickhouse-server.log
+Logging errors to /var/log/clickhouse-server/clickhouse-server.err.log
+Processing configuration file '/etc/clickhouse-server/config.xml'.
+Merging configuration file '/etc/clickhouse-server/config.d/config.xml'.
+Merging configuration file '/etc/clickhouse-server/config.d/users.xml'.
+Saved preprocessed configuration to '/var/lib/clickhouse/preprocessed_configs/config.xml'.
+Processing configuration file '/etc/clickhouse-server/users.xml'.
+Saved preprocessed configuration to '/var/lib/clickhouse/preprocessed_configs/users.xml'.
