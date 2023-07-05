@@ -5,7 +5,7 @@ metadata:
   labels:
     app: clickhouse-db
 spec:
-  replicas: 3
+  replicas: 4
   selector:
     matchLabels:
       app: clickhouse-db
